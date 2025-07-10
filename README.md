@@ -30,22 +30,6 @@
 
 ---
 
-## 📊 SYSTEM STATUS REPORT
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yzfwh899/fake-stats/main/fake-stats.png" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yzfwh899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=oz's%20GitHub%20Stats" width="500" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yzfwh899&theme=tokyonight&hide_border=true" width="500" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzfwh899&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🔗 gwehj
 
 - [Instagram](https://www.instagram.com/yzfwh_)  
