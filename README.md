@@ -4,17 +4,18 @@
 
 # I'm oz
 
-> aku cinta gudang garam soerya 16 batang.  
+> we listen and we dont judge,aku cinta gudang garam.
 > RPL // learning full-stack, practicing offensive security.
+
 ---
 
 ## 🧾 TL;DR
 
 - Alias: oz  
-- Umur: masih di bawah radar  
+- Umur: Masih di bawah radar  
 - Status: -  
-- Goals: masuk ke rumah tangga janda anak satu  
-- Skillset: backend dev, ethical hacking, CLI enjoyer  
+- Goals: Masuk ke rumah tangga janda anak satu  
+- Skillset: Backend dev,ethical hacking,CLI enjoyer  
 - Domisili: somewhere between 127.0.0.1 and /dev/null
 
 ---
@@ -25,26 +26,25 @@
 - JavaScript (vanilla / DOM), Tailwind  
 - SQLite, PostgreSQL  
 - Git, GitHub, VSCode  
-- Kali Linux, Termux, Metasploit, Burp Suite, Arch, Debian
+- Kali Linux,Termux,Metasploit,Burp Suite,Arch,Debian.
 
 ---
 
 ## 📊 SYSTEM STATUS REPORT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/oz's%20stats-terminal%20green?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/yzfwh899/fake-stats/main/fake-stats.png" width="500" />
 </p>
 
-> `"uripku urup."`  
-> `user: oz | host: github.com | shell: bash`
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yzfwh899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yzfwh899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=oz's%20GitHub%20Stats" width="500" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yzfwh899&theme=tokyonight&hide_border=true" width="500" />
   <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yzfwh899&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yzfwh899&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
+
+---
 
 ## 🔗 gwehj
 
