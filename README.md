@@ -4,17 +4,6 @@
 
 # I'm oz
 
-> we listen and we dont judge,aku cinta gudang garam.
-> RPL // learning full-stack, practicing offensive security.
-
----
-
-## 🧾 TL;DR
-
-- Goals: Masuk ke rumah tangga janda anak satu  
-- Skillset: Backend dev,ethical hacking,CLI enjoyer  
-- Domisili: somewhere between 127.0.0.1 and /dev/null
-
 ---
 
 ## 🧰 Tech Stack
@@ -23,16 +12,4 @@
 - JavaScript,Tailwind  
 - SQLite,PostgreSQL  
 - Git,GitHub,VSCode  
-- Kali Linux,Termux,Metasploit,Burp Suite,Arch,Debian.
-
----
-
-## 🔗 gwehj
-
-- [Instagram](https://www.instagram.com/yzfwh_)  
-- [LinkedIn](https://id.linkedin.com/in/yoza-alshifwah-806646318)  
-- [GitHub](https://github.com/yzfwh899)
-
----
-
-_"iya."_
+- Kali Linux,Termux,Metasploit,Arch,Debian.
