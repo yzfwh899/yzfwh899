@@ -13,3 +13,4 @@
 - SQLite,PostgreSQL  
 - Git,GitHub,VSCode  
 - Kali Linux,Termux,Metasploit,Arch,Debian.
+- Android Flashing, Android Service, Android Studio
