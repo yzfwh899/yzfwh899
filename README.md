@@ -8,9 +8,9 @@
 
 ## 🧰 Tech Stack
 
-- Python + Flask  
-- JavaScript,Tailwind  
-- SQLite,PostgreSQL  
+- Laravel-filament,PHP,Expo
+- JavaScript,Tailwind,Vue  
+- MySql  
 - Git,GitHub,VSCode  
-- Kali Linux,Termux,Metasploit,Arch,Debian.
+- Arch
 - Android Flashing, Android Service, Android Studio
