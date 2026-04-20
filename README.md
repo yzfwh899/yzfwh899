@@ -3,7 +3,5 @@
   <h3>Im going Insane</h3>
 </p>
 
-I'm Yoza Alshifwah
-
-
+i'm oz
 i like kde plasma on arch
